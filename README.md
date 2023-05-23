@@ -10,3 +10,4 @@ Set 2-Multiple programs: AddThree takes in 3 numbers from the user and outputs t
                          
 Set 3-Multiple programs: loops_words takes in two numbers from the user and implements for loops to modify an existing array of numbers based on those two numbers. Utilizes words for the arrays.
                          fibonacci prints out fibonacci numbers up to n amount that is entered by the user.
+                         factorial takes in a number from the user and prints out the factorial of that number.
